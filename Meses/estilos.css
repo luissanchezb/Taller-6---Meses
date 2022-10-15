@@ -1,0 +1,135 @@
+body{
+    background: linear-gradient(to right, #e6a90fe6, #df521fc4);	
+    font-family: Courier new;
+}
+
+
+h1{
+    background-color: #ebb495ea;
+	font-family: Courier new;
+    color: rgb(7, 7, 7);
+	border: 3px double #0D1F1B;
+	border-radius: 35px;
+}
+
+blockquote{
+	width: 750px;
+	padding: 10px;
+	border-radius: 35px;
+	height: 425px;
+	margin-top: 100px;
+	text-align: center;
+	background-color: #ca4a05ea;
+	padding-right: 10px;
+	border: 3px double #0D1F1B;
+    
+}
+
+.meses{
+	width: 200px;
+	padding: 3px;
+	border-radius: 35px;
+	height: 150px;
+	margin-top: 100px;
+	margin-left:150px ;
+	text-align: center;
+	padding-right: 10px;
+    background-color: #ebb495ea;
+    color: rgb(7, 7, 7);
+	font-family: Courier new;
+	border: 3px double #0D1F1B;
+    
+}
+
+.productos{
+	width: 200px;
+	padding: 3px;
+	border-radius: 35px;
+	height: 150px;
+	margin-top: 150px;
+	text-align: center;
+	padding-right: 10px;
+    background-color: #ebb495ea;
+	color: rgb(7, 7, 7);
+	margin-top: -178px;
+	margin-left: 400px;
+	border: 3px double #0D1F1B;
+    font-family: Courier new;
+   
+   
+
+}
+
+p{
+	font-size: 25px;
+	font-family: Courier new;
+    color: rgb(7, 7, 7);
+	border-radius: 35px;
+    font-weight: 800;
+    justify-content: center;
+    
+}
+
+
+.boton{
+    
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 15px;
+    color: #0D1F1B;
+    background-color: #ca4a05ea;
+    border-radius: 15px;
+    border: 3px double #0D1F1B;
+    box-shadow: 0px 8px 8px 2px rgba(0, 8, 8, 0.47);
+    font-weight: 800;
+
+  }
+  .boton:hover{
+    opacity: 0.6;
+    text-decoration: none;
+  }
+
+
+  footer{
+    
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin: auto;
+    padding-bottom: 80px;
+    border-bottom: 6px solid #ca4a05ea;
+    
+    
+}
+
+.content-foo{
+    text-align: center;
+}
+
+.content-foo h4{
+    color: #080808;
+    border-bottom: 6px solid #ca4a05ea;
+    font-size: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.content-foo p{
+    color: #080808;
+}
+
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #080808;
+}
